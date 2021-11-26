@@ -1,6 +1,3 @@
-#ifndef album_hpp
-#define album_hpp
-
 #pragma once
 #include "rock_group.hpp"
  
@@ -19,4 +16,4 @@ protected:
     int year;
 };
 
-#endif /* album_hpp */
+
