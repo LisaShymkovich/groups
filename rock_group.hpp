@@ -1,6 +1,3 @@
-#ifndef rock_group_hpp
-#define rock_group_hpp
-
 #pragma once
 #include <string>
 #include <iostream>
@@ -20,5 +17,3 @@ protected:
 };
 
 
-
-#endif /* rock_group_hpp */
