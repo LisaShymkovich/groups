@@ -1,6 +1,3 @@
-#ifndef musician_hpp
-#define musician_hpp
-
 #pragma once
 #include "rock_group.hpp"
 class musician :
@@ -19,7 +16,3 @@ protected:
 };
 
 
-
-
-
-#endif /* musician_hpp */
