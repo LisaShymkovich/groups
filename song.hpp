@@ -1,5 +1,3 @@
-#ifndef song_hpp
-#define song_hpp
 
 #pragma once
 #include "rock_group.hpp"
@@ -22,4 +20,4 @@ protected:
 };
 
 
-#endif /* song_hpp */
+
